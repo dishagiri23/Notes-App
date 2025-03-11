@@ -34,7 +34,6 @@ You can check out the project from my **LinkedIn post**:
 
 ## 📬 Contact Me
 For any queries or feedback, feel free to reach out:
-📧 Email: dishagiri09170@gmailcom  
 🐦 Twitter: [@Dev_DishaGiri](https://x.com/Dev_DishaGiri)  
 💼 LinkedIn: [Disha Giri](https://www.linkedin.com/in/disha-giri-414a72314/)
 
