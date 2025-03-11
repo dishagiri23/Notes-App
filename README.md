@@ -30,7 +30,7 @@ The project includes icons related to note-taking, such as:
 
 ## 🔗 Check the Project
 You can check out the project from my **LinkedIn post**:
-👉 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+👉 [LinkedIn Post]()
 
 ## 📬 Contact Me
 For any queries or feedback, feel free to reach out:
