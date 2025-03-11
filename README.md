@@ -30,7 +30,7 @@ The project includes icons related to note-taking, such as:
 
 ## 🔗 Check the Project
 You can check out the project from my **LinkedIn post**:
-👉 [LinkedIn Post]()
+👉 [LinkedIn Post](https://www.linkedin.com/posts/disha-giri-414a72314_notesapp-webdevelopment-html-activity-7305299728164896769-CZ46?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_kPtABCjw9fH2akV5Tu82nt9cl_XeXa-o)
 
 ## 📬 Contact Me
 For any queries or feedback, feel free to reach out:
